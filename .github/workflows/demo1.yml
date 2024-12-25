@@ -5,6 +5,7 @@ on:
       - opened
   
   workflow_dispatch:
+  push:
 
 jobs:
   deploy:
